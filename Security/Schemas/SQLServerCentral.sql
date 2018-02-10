@@ -1,0 +1,3 @@
+CREATE SCHEMA [SQLServerCentral]
+AUTHORIZATION [dbo]
+GO

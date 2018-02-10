@@ -1,0 +1,3 @@
+CREATE SCHEMA [CandidateKey]
+AUTHORIZATION [dbo]
+GO
